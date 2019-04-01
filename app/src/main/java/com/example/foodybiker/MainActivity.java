@@ -1,4 +1,4 @@
-package com.example.foodyrestaurant;
+package com.example.foodybiker;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

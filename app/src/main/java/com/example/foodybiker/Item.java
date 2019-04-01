@@ -1,4 +1,4 @@
-package com.example.foodyrestaurant;
+package com.example.foodybiker;
 
 import android.support.annotation.NonNull;
 

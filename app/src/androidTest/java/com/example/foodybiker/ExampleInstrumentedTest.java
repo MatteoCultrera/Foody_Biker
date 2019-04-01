@@ -1,4 +1,4 @@
-package com.example.foodyrestaurant;
+package com.example.foodybiker;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
